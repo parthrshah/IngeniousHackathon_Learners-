@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/creditcardimagecomplete.unity
+- path: creditcardimagecomplete.unity
   isLoaded: 1
   isActive: 1
