@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/AI3D.cs">
+    <Files>
+      <File FileName="Assets/Script/GameManagerAI3d.cs" Line="78" Column="3" />
+      <File FileName="Assets/Script/Player3D.cs" Line="179" Column="4" />
+      <File FileName="Assets/Script/GameManager3D.cs" Line="78" Column="36" />
+      <File FileName="Assets/Script/MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/AI3D.cs" Line="137" Column="50" />
+      <File FileName="Assets/Script/Player3DSinglePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Bowl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
