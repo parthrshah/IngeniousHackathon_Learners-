@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/backupscene.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/UIController/Examples/Popups/UIController_Popups.unity
+  isLoaded: 1
+  isActive: 0
